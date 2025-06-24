@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: INTERNATIONAL
+      label: CO
       color: text-primary
       type: Badge
     elementId: ''
