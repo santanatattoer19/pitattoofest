@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: SEGUNDA EDICIÓN 2025
-    text: "La convención internacional de tatuajes más importante del sur colombiano vuelve recargada.\n\nTres días de arte, cultura, tinta y comunidad en un solo lugar.\n\n\U0001F4C5 31 de octubre, 1 y 2 de noviembre de 2025\n\n\U0001F4CD Integración – Pitalito, Huila\n\nMás de 100 artistas invitados nacionales e internacionales.\n\nCompeticiones en múltiples categorías y gran premio al mejor del evento.\n\nZona espiritual, shows en vivo, stands de marcas, gastronomía y mucho más\n\n\n\n"
+    text: "La convención internacional de tatuajes más importante del sur colombiano vuelve recargada.\nTres días de arte, cultura, tinta y comunidad en un solo lugar.\n\n\U0001F4C5 31 de octubre, 1 y 2 de noviembre de 2025\n\U0001F4CD Integración – Pitalito, Huila\n\nMás de 100 artistas invitados nacionales e internacionales, múltiples categorías y gran premio al mejor del evento.\n\nZona espiritual, shows en vivo, stands de marcas, gastronomía y mucho más\n"
     actions:
       - label: Get started
         altText: ''
