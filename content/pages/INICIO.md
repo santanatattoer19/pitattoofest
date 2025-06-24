@@ -12,13 +12,7 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: "<h1>PITATTOO FEST</h1>\n<h2>Segunda edición · 2025</h2>\n\n<p>La convención internacional de tatuajes más importante del sur colombiano vuelve recargada. Tres días de arte, cultura, tinta y comunidad en un solo lugar.</p>\n\n<p>\U0001F4C5 31 de octubre, 1 y 2 de noviembre de 2025\n\U0001F4CD Integración – Pitalito, Huila</p>\n\n<p>Más de 100 artistas invitados nacionales e internacionales.\nCompeticiones en múltiples categorías y gran premio al mejor del evento.\nZona espiritual, shows en vivo, stands de marcas, gastronomía y mucho más.</p>\n\n<div style=\"margin-top: 1rem; display: flex; gap: 1rem; flex-wrap: wrap;\">\n  <a href=\"#entradas\" style=\"background-color: black; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none;\">Comprar entrada</a>\n  <a href=\"#artistas\" style=\"background-color: #222; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none;\">Participar como artista</a>\n  <a href=\"#stands\" style=\"background-color: #444; color: white; padding: 0.75rem 1.5rem; border-radius: 6px; text-decoration: none;\">Reservar un stand</a>\n</div>\n\n"
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
